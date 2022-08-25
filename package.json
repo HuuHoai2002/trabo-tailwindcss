@@ -1,0 +1,10 @@
+{
+  "name": "trabo-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Huuhoai2002",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
